@@ -15,4 +15,3 @@ export class MovieState {
     }
 }
 
-//o clasa de tip state cu 2 functii, de a schimba starea to WillWatch si will not
