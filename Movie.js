@@ -15,5 +15,3 @@ export class Movie {
         this.isWillWatch = isWillWatch;
     }
 }
-//o clasa in care defenim Movie,avem 2 functii , unde putem seta ratingul filmului, dar putem sa 
-//il adaugam si in lista de will watch
