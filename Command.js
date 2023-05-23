@@ -18,4 +18,3 @@ export class UnwatchCommand {
     }
 }
 
-//command pattern
