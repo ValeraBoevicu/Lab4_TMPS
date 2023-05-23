@@ -4,4 +4,4 @@ export class RatingVisitor {
     }
 }
 
-//o clasa de tip visiot, pentru verificarea rating
+
